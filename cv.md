@@ -7,7 +7,7 @@
 * Telegram - @siliava
 * Email - siliava999@mail.ru
 
-## Abou me:
+## About me:
 info
 
 ## Skills:
