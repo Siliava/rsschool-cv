@@ -96,6 +96,7 @@ h3 {
 img {
     vertical-align: middle;
     margin-right: 1rem;
+    
 
 }
 
@@ -124,6 +125,7 @@ img {
 
 .git-img {
     margin-right: 6px;
+    margin-left: auto;
     vertical-align: middle;
 }
 
