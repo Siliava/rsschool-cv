@@ -99,7 +99,13 @@ img {
 
 
 }
-
+.right-top {
+    width: 100%;
+    padding-top: 20px;
+    height: 260px;
+    text-align: center;
+    background-color: #ffde59;
+}
 .right-bottom {
     padding-top: 40px;
     padding-left: 60px;
