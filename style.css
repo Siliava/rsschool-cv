@@ -125,7 +125,12 @@ img {
 }
 
 .code {
-    margin: 0;
+    display: block;
+    overflow-x: auto;
+    padding: 0.5em;
+    text-align: left;
+    background: #f8f8f8;
+    color: #000000;
 }
 
 .flex-paragraph {
@@ -156,3 +161,5 @@ footer a {
 .cv {
     border: 5px solid #dfd6b4;
 }
+
+
